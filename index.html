@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thalapathy Vijay • Gallery & Songs</title>
+  <meta name="description" content="Vijay fan page with image slider, blog links, and YouTube songs." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="bg-glow bg-glow-1"></div>
+  <div class="bg-glow bg-glow-2"></div>
+
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <h1 class="logo">THALAPATHY VIJAY</h1>
+      <nav>
+        <a href="#gallery">Gallery</a>
+        <a href="#blogs">Blogs</a>
+        <a href="#songs">Songs</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- HERO / IMAGE SLIDER -->
+    <section id="gallery" class="section hero-section">
+      <div class="container">
+        <div class="section-head">
+          <h2>Iconic Moments</h2>
+          <p>Auto-sliding image showcase</p>
+        </div>
+
+        <div class="hero-slider" id="heroSlider">
+          <button class="nav-btn prev" id="heroPrev" aria-label="Previous image">❮</button>
+          <div class="hero-track" id="heroTrack"></div>
+          <button class="nav-btn next" id="heroNext" aria-label="Next image">❯</button>
+          <div class="hero-dots" id="heroDots"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- BLOG LINKS CAROUSEL -->
+    <section id="blogs" class="section">
+      <div class="container">
+        <div class="section-head">
+          <h2>Featured Blog Links</h2>
+          <p>Slides automatically • click any card to open</p>
+        </div>
+
+        <div class="carousel-wrap">
+          <button class="nav-btn small prev" id="blogPrev" aria-label="Previous blog">❮</button>
+          <div class="carousel-window">
+            <div class="cards-track" id="blogsTrack"></div>
+          </div>
+          <button class="nav-btn small next" id="blogNext" aria-label="Next blog">❯</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- SONG LINKS CAROUSEL -->
+    <section id="songs" class="section section-bottom">
+      <div class="container">
+        <div class="section-head">
+          <h2>YouTube Songs</h2>
+          <p>Auto-sliding cards with thumbnails</p>
+        </div>
+
+        <div class="carousel-wrap">
+          <button class="nav-btn small prev" id="songPrev" aria-label="Previous song">❮</button>
+          <div class="carousel-window">
+            <div class="cards-track" id="songsTrack"></div>
+          </div>
+          <button class="nav-btn small next" id="songNext" aria-label="Next song">❯</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>Fan-made showcase • Update links in <code>data/content.json</code></small>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
