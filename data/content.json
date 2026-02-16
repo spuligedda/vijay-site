@@ -1,70 +1,104 @@
 {
-    "images": [
-      {
-        "url": "https://m.media-amazon.com/images/M/MV5BNTNkZWZlYmQtODZhMi00MWVjLTgxZGMtZDczYTM4ODZjYjdkXkEyXkFqcGc@._V1_QL75_UX500_CR0,59,500,281_.jpg",
-        "caption": "Vijay Style Frame 1"
-      },
-      {
-        "url": "https://imagesvs.oneindia.com/img/2025/08/tvk-vijay-jpg-1755598782378_1755598781751-1200x675.jpg",
-        "caption": "Vijay Style Frame 2"
-      },
-      {
-        "url": "https://cdn.wallpapersafari.com/9/34/QXoqcR.jpg",
-        "caption": "Vijay Style Frame 3"
-      },
-      {
-        "url": "https://w0.peakpx.com/wallpaper/440/928/HD-wallpaper-vijay-is-holding-specs-with-hand-master.jpg",
-        "caption": "Vijay Style Frame 4"
-      }
-    ],
-    "blogs": [
-      {
-        "title": "Best Vijay Movie Moments",
-        "meta": "Fan Blog",
-        "url": "https://www.tgv.com.my/fun/blog/vijay-dance/",
-        "thumbnail": "https://fun.tgv.com.my/wp-content/uploads/2026/01/Featured-Image-Jana-Nayagan.jpg"
-      },
-      {
-        "title": "Tamilaga Vettri Kazhagam",
-        "meta": "Vijay Thalapathys political party ",
-        "url": "https://tvkitwing.com",
-        "thumbnail": "https://tvkitwing.com/wp-content/uploads/2024/08/tvk-thiruvottiyur-tamilaga-vettri-kazhagam-flag.webp"
-      },
-      {
-        "title": "Why Fans Love Thalapathy",
-        "meta": "Editorial",
-        "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/five-times-when-thalapathy-vijay-proved-he-is-a-real-hero/photostory/84446095.cms",
-        "thumbnail": "https://static.toiimg.com/thumb/84446305.jpg?imgsize=154075&photoid=84446305&width=600&height=335&resizemode=75"
-      }
-    ],
-    "songs": [
-      {
-        "url": "https://www.youtube.com/watch?v=jCafZht8yMA&list=RDjCafZht8yMA&start_radio=1&pp=ygUddmlqYXkgdGhhbGFwYXRoeSBzb25nIHRlbHVndSCgBwE%3D"
-      },
-      {
-        "url": "https://youtu.be/5vmG0d2GW7s?list=RD5vmG0d2GW7s"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=PxjPg1C5V_8&list=RDPxjPg1C5V_8&start_radio=1&pp=ygUddmlqYXkgdGhhbGFwYXRoeSBzb25nIHRlbHVndSCgBwE%3D"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=L0dGYf69CZ0&list=RDL0dGYf69CZ0&start_radio=1&pp=ygUddmlqYXkgdGhhbGFwYXRoeSBzb25nIHRlbHVndSCgBwE%3D"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=HDh58mFU5M4&list=RDHDh58mFU5M4&start_radio=1&pp=ygUddmlqYXkgdGhhbGFwYXRoeSBzb25nIHRlbHVndSCgBwE%3D"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=KgpnfT5bgLY&list=RDEMDwiCXdtHwSkamYikl6wsig&start_radio=1"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=KUN5Uf9mObQ&list=RDKUN5Uf9mObQ&start_radio=1&pp=ygUWdmlqYXkgdGhhbGFwYXRoeSBzb25nIKAHAQ%3D%3D"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=K1KdMictk3s&list=RDK1KdMictk3s&start_radio=1&pp=ygUWdmlqYXkgdGhhbGFwYXRoeSBzb25nIKAHAQ%3D%3D"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=Fyj5wbzRPC8&list=RDFyj5wbzRPC8&start_radio=1&pp=ygUWdmlqYXkgdGhhbGFwYXRoeSBzb25nIKAHAQ%3D%3D"
-      }
-    ]
+  "images": [
+  {
+    "type": "youtube",
+    "url": "https://youtu.be/tqbT1UWyDcs?si=rhkQHvrGYYWkTYkt",
+    "caption": "Vijay Intro Video"
+  },
+  {
+    "url": "https://m.media-amazon.com/images/M/MV5BNTNkZWZlYmQtODZhMi00MWVjLTgxZGMtZDczYTM4ODZjYjdkXkEyXkFqcGc@._V1_QL75_UX500_CR0,59,500,281_.jpg",
+    "caption": "Vijay Style Frame 1"
+  },
+  {
+    "url": "https://imagesvs.oneindia.com/img/2025/08/tvk-vijay-jpg-1755598782378_1755598781751-1200x675.jpg",
+    "caption": "Vijay Style Frame 2"
+  },
+  {
+    "url": "https://cdn.wallpapersafari.com/9/34/QXoqcR.jpg",
+    "caption": "Vijay Style Frame 3"
+  },
+  {
+    "url": "https://w0.peakpx.com/wallpaper/440/928/HD-wallpaper-vijay-is-holding-specs-with-hand-master.jpg",
+    "caption": "Vijay Style Frame 4"
   }
-  
+],
+  "spoof": [
+    {
+      "url": "https://i.pinimg.com/736x/a2/f9/87/a2f987c430f98a5c0d7250b47058c0e9.jpg",
+      "caption": "Frame 1"
+    },
+    {
+      "url": "https://i.pinimg.com/736x/64/4f/d4/644fd4b625d4c4bc1d0e60ee5b19a553.jpg",
+      "caption": "Frame 2"
+    },
+    {
+      "url": "https://i.pinimg.com/736x/94/38/26/9438269502f0c5b0731b4aac4447f88c.jpg",
+      "caption": "Frame 3"
+    },
+    {
+      "url": "https://i.pinimg.com/736x/99/22/bc/9922bce0304af8220fef30ed9d57ded6.jpg",
+      "caption": "Frame 4"
+    },
+    {
+      "url": "https://i.pinimg.com/736x/bf/45/05/bf450581e31487034888434d6a73c856.jpg",
+      "caption": "Frame 5"
+    },
+    {
+      "url": "https://i.pinimg.com/1200x/8f/98/77/8f98773b7e310d4db2e809508b8fccfd.jpg",
+      "caption": "Frame 6"
+    },
+    {
+      "url": "https://i.pinimg.com/736x/fb/96/b9/fb96b9df52df6c93a02a9aa484e05209.jpg",
+      "caption": "Frame 7"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Best Vijay Movie Moments",
+      "meta": "Fan Blog",
+      "url": "https://www.tgv.com.my/fun/blog/vijay-dance/",
+      "thumbnail": "https://fun.tgv.com.my/wp-content/uploads/2026/01/Featured-Image-Jana-Nayagan.jpg"
+    },
+    {
+      "title": "Tamilaga Vettri Kazhagam",
+      "meta": "Vijay Thalapathy political party",
+      "url": "https://tvkitwing.com",
+      "thumbnail": "https://tvkitwing.com/wp-content/uploads/2024/08/tvk-thiruvottiyur-tamilaga-vettri-kazhagam-flag.webp"
+    },
+    {
+      "title": "Why Fans Love Thalapathy",
+      "meta": "Editorial",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/five-times-when-thalapathy-vijay-proved-he-is-a-real-hero/photostory/84446095.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/84446305.jpg?imgsize=154075&photoid=84446305&width=600&height=335&resizemode=75"
+    }
+  ],
+  "songs": [
+    {
+      "url": "https://www.youtube.com/watch?v=jCafZht8yMA&list=RDjCafZht8yMA&start_radio=1&pp=ygUddmlqYXkgdGhhbGFwYXRoeSBzb25nIHRlbHVndSCgBwE%3D"
+    },
+    {
+      "url": "https://youtu.be/5vmG0d2GW7s?list=RD5vmG0d2GW7s"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PxjPg1C5V_8&list=RDPxjPg1C5V_8&start_radio=1&pp=ygUddmlqYXkgdGhhbGFwYXRoeSBzb25nIHRlbHVndSCgBwE%3D"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L0dGYf69CZ0&list=RDL0dGYf69CZ0&start_radio=1&pp=ygUddmlqYXkgdGhhbGFwYXRoeSBzb25nIHRlbHVndSCgBwE%3D"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HDh58mFU5M4&list=RDHDh58mFU5M4&start_radio=1&pp=ygUddmlqYXkgdGhhbGFwYXRoeSBzb25nIHRlbHVndSCgBwE%3D"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KgpnfT5bgLY&list=RDEMDwiCXdtHwSkamYikl6wsig&start_radio=1"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KUN5Uf9mObQ&list=RDKUN5Uf9mObQ&start_radio=1&pp=ygUWdmlqYXkgdGhhbGFwYXRoeSBzb25nIKAHAQ%3D%3D"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=K1KdMictk3s&list=RDK1KdMictk3s&start_radio=1&pp=ygUWdmlqYXkgdGhhbGFwYXRoeSBzb25nIKAHAQ%3D%3D"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Fyj5wbzRPC8&list=RDFyj5wbzRPC8&start_radio=1&pp=ygUWdmlqYXkgdGhhbGFwYXRoeSBzb25nIKAHAQ%3D%3D"
+    }
+  ]
+}
